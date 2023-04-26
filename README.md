@@ -1,4 +1,4 @@
-# Fashion MNIST Classification with Neural Networks 👕
+# Fashion MNIST Classification 👕
 
 This project uses Neural Networks to classify images from the Fashion MNIST dataset, which can be found in [Kaggle](https://www.kaggle.com/zalando-research/fashionmnist).
 
